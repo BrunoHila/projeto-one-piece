@@ -10,7 +10,7 @@ ul {
 
 body {
   background-color: #000000;
-  overflow: hidde
+  overflow: hidden;
 }
 
 main::after {
@@ -26,7 +26,7 @@ main::after {
 
 main .personagem {
   display: none;
-  height: 100%;
+  height: 100vh;
 }
 
 main .personagem.selecionado {
